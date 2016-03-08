@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.js","sourcesContent":[],"sourceRoot":"/source/"}
+{"version":3,"sources":["main.js"],"names":[],"mappings":";;;AACA,MAAM,MAAN,CACI,oBAAC,GAAD,OADJ,EAEI,SAAS,cAAT,CAAwB,eAAxB,CAFJ","file":"main.js","sourcesContent":["/* Okay let's render it*/\nReact.render(\n    <App/>,\n    document.getElementById('app-container')\n);"],"sourceRoot":"/source/"}

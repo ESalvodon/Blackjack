@@ -1,0 +1,67 @@
+<html>
+<head>
+  <title>BLACKJACK</title>
+
+  <script src="scripts/react-with-addons.js"></script>
+  <script src="scripts/JSXTransformer.js"></script>
+  <script src="scripts/jquery.min.js"></script>
+  <script src="scripts/lodash.min.js"></script>
+
+
+  <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="styles/card.css">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+
+  <style type="text/css">
+
+   body{
+     background: url('images/back.png');
+   }
+
+   .hand{
+    height:auto;
+    overflow: auto;
+  }
+
+  .interface{
+    height:auto;
+    overflow: auto;
+    margin: 25px 0px;
+    background: transparent;
+    background: rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .card{
+   display: inline-block;
+   height: 185px;
+   width: 132px;
+   float: left;
+
+ }
+
+</style>
+</head>
+<body>
+  <div class="container-fluid" >
+   <div class="row ">
+     <div class="col-lg-4 col-lg-offset-4">
+      <br>
+    </div>
+  </div>
+  <div class="row ">
+   <div class="col-lg-6 col-lg-offset-3" >
+    <div class="row " id="app-container">
+
+    </div>
+  </div>
+</div>
+</div>
+
+<script type="text/jsx" src="scripts/all-components.js"></script>
+<script type="text/jsx" src="scripts/main.js"></script>
+
+
+</body>
+</html>
