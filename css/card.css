@@ -1,8 +1,0 @@
-.card-up {
-     backgroundImage: 'url(/img/' + this.props.face + '.png)';
- }
-
-.card-down {
-	 backgroundImage: 'url(/img/hidden.png)';
-}
- 

@@ -1,0 +1,9 @@
+.card-up {
+     backgroundImage: 'url(/img/' + this.props.face + '.png)';
+ }
+
+.card-down {
+	 backgroundImage: 'url(/img/hidden.png)';
+}
+ 
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNhcmQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0tBQ0sseURBQXlEO0VBQzVEOztBQUVGO0VBQ0Usd0NBQXdDO0NBQ3pDIiwiZmlsZSI6ImNhcmQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNhcmQtdXAge1xuICAgICBiYWNrZ3JvdW5kSW1hZ2U6ICd1cmwoL2ltZy8nICsgdGhpcy5wcm9wcy5mYWNlICsgJy5wbmcpJztcbiB9XG5cbi5jYXJkLWRvd24ge1xuXHQgYmFja2dyb3VuZEltYWdlOiAndXJsKC9pbWcvaGlkZGVuLnBuZyknO1xufVxuICJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */

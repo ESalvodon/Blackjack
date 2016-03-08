@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.6.5",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.11.1",
+    "browserify": "^13.0.0",
+    "gh-pages": "^0.11.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "normalize.css": "^3.0.3"
+  }
+}
